@@ -1,0 +1,229 @@
+ *{
+	padding: 0;
+	margin: 0;
+  }
+  ul,ol,li{
+  	list-style: none;
+  }
+  .head{
+  	height:173px;
+  	background:#eeeeef;
+  }
+.zhongxin{
+         height:95px;
+         text-align: center;
+         padding-top: 30px;
+  }
+.tuoyuan{
+	height:45px;
+	width:720px;
+	background:#fff;
+	margin:0 auto;
+	border-radius: 23px;
+}
+.tuoyuan li{
+	float:left;
+	height:45px;
+	padding:0 30px;
+	line-height:45px;
+	background:url(shuganggang.png)no-repeat right center;
+}
+.tuoyuan li a{
+	display:block;
+	height:42px;
+	border-bottom:3px solid #1e50ae;
+	padding-bottom: 0px;
+	text-decoration: none;
+}
+.tuoyuan li:last-child{
+	background:none;
+}
+.people{
+	height:405px;
+	background:url(people.jpg)no-repeat center center;
+}
+.serve1{
+	width:1550px;
+	height:202px;
+	text-align: center;
+	padding-top:65px;
+	display:block;
+}
+.serve2{
+	margin-top:27px;
+}
+.tubiao1{
+	width:1060px;
+	height:300px;
+	margin:0 auto;
+	background:white;
+}
+.tubiao2{
+	width:1060px;
+	height:100px;
+	margin:0 auto;
+	background:white;
+	margin-top: 0px;
+}
+.a{
+   width:265px;
+   height:369px;
+   float:left;
+}
+.b{
+	width:265px;
+	height:249px;
+	float:left;
+}
+.c{
+	width:265px;
+	height:369px;
+	float:left;
+}
+.d{
+	width:265px;
+	height:369px;
+	float:left;
+}
+.zi1{
+	padding-left:106px;
+}
+.xiaoquan{
+	background: url(xiaoquan.jpg) no-repeat left center;
+	padding-left:18px;
+	color:#85868a;
+}
+.blue{
+	width:1060px;
+	height:;
+}
+.ball{
+	position:absolute;
+	left:200px;
+	top:2500px;
+}
+.ballright{
+	position: absolute;
+	left:800px;
+    top:2500px;
+}
+.zi2{
+	color:grey;
+}
+.zi3{
+	color:grey;
+	width:600px;
+	height:360px;
+	position:absolute;
+	left:100px;
+	top:2900px;
+}
+.zi4{
+	color:grey;
+	width:600px;
+	height:360px;
+	position:absolute;
+	left:800px;
+	top:2900px;
+}
+.xu{
+	border-bottom: 1px dashed grey;
+	padding-bottom:15px;
+}
+.tubiao3{
+	width:1500px;
+	height:103px;
+	background:#eeeeef;
+	position:absolute;
+	left:0px;
+	top:3200px;
+	float:left;
+}
+.tubiao4{
+	width:330px;
+	height:103px;
+	float:left;
+	display:block;
+}
+.zi5{
+	width:330px;
+	height:50px;
+	padding-left: 100px;
+	padding-bottom: 0px;
+}
+.zi6{
+	width:1560px;
+	height:259px;
+    float:left;
+    background:black;
+    border-bottom: 2px solid gray;
+    position:absolute;
+    left:0px;
+    top:3304px;
+}
+.zi7{
+	width:615px;
+	height:259px;
+    float:left;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+.zi8{
+	width:79px;
+	height:259px;
+	float:left;
+	margin-left: 50px;
+}
+.zi8 ul li{
+	color:white;
+}
+.zi8 ul h3{
+	color:white;
+}
+.weixin{
+	position:absolute;
+	left:700px;
+	top:40px;
+}
+.shu{
+	position:absolute;
+	left:950px;
+	top:90px;
+}
+.qq{
+	position:absolute;
+	left:1000px;
+	top:0px;
+}
+.next{
+	width:1560px;
+	height:200px;
+    float:left;
+    background:black;
+    border-bottom: 2px solid gray;
+    position:absolute;
+    left:0px;
+    top:3564px;
+    border-bottom: 1px soild #eeeeef
+}
+.next1{
+	height:45px;
+	width:1550px;
+	background:black;
+	margin:0 auto;
+	border-radius: 23px;
+}
+.next1 li{
+	float:left;
+	height:45px;
+	padding:0 30px;
+	line-height:45px;
+	background:black;
+	color: white;
+	background:url(shuganggang.png)no-repeat right center;
+}
+.zi9{
+	position:absolute;
+    left:500px;
+    top:50px;
+}
