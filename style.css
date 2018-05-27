@@ -26,7 +26,7 @@
 	height:45px;
 	padding:0 30px;
 	line-height:45px;
-	background:url(shuganggang.png)no-repeat right center;
+	background:url(zhongzhixinyuan/shuganggang.png)no-repeat right center;
 }
 .tuoyuan li a{
 	display:block;
@@ -40,7 +40,7 @@
 }
 .people{
 	height:405px;
-	background:url(people.jpg)no-repeat center center;
+	background:url(zhongzhixinyuan/people.jpg)no-repeat center center;
 }
 .serve1{
 	width:1550px;
@@ -89,7 +89,7 @@
 	padding-left:106px;
 }
 .xiaoquan{
-	background: url(xiaoquan.jpg) no-repeat left center;
+	background: url(zhongzhixinyuan/xiaoquan.jpg) no-repeat left center;
 	padding-left:18px;
 	color:#85868a;
 }
@@ -220,7 +220,7 @@
 	line-height:45px;
 	background:black;
 	color: white;
-	background:url(shuganggang.png)no-repeat right center;
+	background:url(zhongzhixinyuan/shuganggang.png)no-repeat right center;
 }
 .zi9{
 	position:absolute;
